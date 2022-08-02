@@ -1,5 +1,7 @@
 ## Hi there, I'm Sudheesh 👋
 
+<p align="center">I’ am a self-taught MERN stack developer based in Palakkad, Kerala. Enthusiastic programmer with good problem solving skills and curious to learn more about developing technologies.</p>
+
 <!--
 **Sudheeshmpgt/Sudheeshmpgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
